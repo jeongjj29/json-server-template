@@ -12,14 +12,14 @@
         "pepper",
         "olive oil"
       ],
-      "image": "https://example.com/images/avocado-toast-poached-eggs.jpg"
+      "image": "https://media.istockphoto.com/id/1306846600/photo/sandwiches-with-avocado-poached-egg-sprouts-and-cheese-for-healthy-breakfast-on-white.jpg?s=1024x1024&w=is&k=20&c=se3am6723Rv1Wp_oRBs24MtfT_6mUh6AMkEFqbbQyQo="
     },
     {
       "id": 2,
       "name": "Greek yogurt parfait with granola and berries",
       "mealTime": "breakfast",
       "ingredients": ["Greek yogurt", "granola", "mixed berries", "honey"],
-      "image": "https://example.com/images/greek-yogurt-parfait.jpg"
+      "image": "https://media.istockphoto.com/id/1397869054/photo/yogurt-bowl-with-granola-and-blueberries.jpg?s=1024x1024&w=is&k=20&c=DZ7GeUYTR7oT9Tor6NQax4NqVgnxl_7pl_MXKv849m4="
     },
     {
       "id": 3,
@@ -35,7 +35,7 @@
         "salt",
         "pepper"
       ],
-      "image": "https://example.com/images/spinach-mushroom-frittata.jpg"
+      "image": "https://media.istockphoto.com/id/1087403460/photo/porcini-mushrooms-potatoes-spinach-baked-frittata-delicious-breakfast-snack-tapas-on-a-light.jpg?s=1024x1024&w=is&k=20&c=mePHPpOc0i5ZuGafqTEabjtAhd3S380U46U9Dap5HZ0="
     },
     {
       "id": 4,
@@ -50,7 +50,7 @@
         "walnuts",
         "maple syrup"
       ],
-      "image": "https://example.com/images/whole-grain-pancakes.jpg"
+      "image": "https://media.istockphoto.com/id/1064139832/photo/pancakes-with-banana-nuts-and-honey-served-with-tea-rustic-style.jpg?s=1024x1024&w=is&k=20&c=4vNQ2tyYGFwDyQakBxay8Ddda5BYoK1YiU8UulGDsVk="
     },
     {
       "id": 5,
@@ -64,7 +64,7 @@
         "cheese",
         "avocado"
       ],
-      "image": "https://example.com/images/breakfast-burrito.jpg"
+      "image": "https://media.istockphoto.com/id/693433468/photo/rice-black-bean-avocado-tomato-burritos.jpg?s=1024x1024&w=is&k=20&c=-B9Lxbhhrs_Dccvrd_wK3Dxs2rp9OsNIR5YE4wBzhQk="
     },
     {
       "id": 6,
@@ -77,7 +77,7 @@
         "parmesan cheese",
         "Caesar dressing"
       ],
-      "image": "https://example.com/images/chicken-caesar-salad.jpg"
+      "image": "https://media.istockphoto.com/id/693802832/photo/chicken-caesar-salad-on-rustic-background-with-copyspace.jpg?s=1024x1024&w=is&k=20&c=QB57qTThg_6i8sSlx9ABBoxjaBqKdVia2abAcXPVbzY="
     },
     {
       "id": 7,
@@ -91,7 +91,7 @@
         "balsamic glaze",
         "olive oil"
       ],
-      "image": "https://example.com/images/caprese-sandwich.jpg"
+      "image": "https://media.istockphoto.com/id/1154590491/photo/close-up-photo-of-sandwich-burger-with-caprese-salad-with-ripe-tomatoes-basil-buffalo.jpg?s=1024x1024&w=is&k=20&c=k3pyrMX1X23tRLUHH-E48rCgdsFxMXHWW0Hd6UJpbZg="
     },
     {
       "id": 8,
@@ -106,7 +106,7 @@
         "vegetable broth",
         "crusty bread"
       ],
-      "image": "https://example.com/images/lentil-vegetable-soup.jpg"
+      "image": "https://media.istockphoto.com/id/856009070/photo/lentil-soup.jpg?s=1024x1024&w=is&k=20&c=LwErEA7xoX--mNKm38068kx7JguFBZ3FHtNpWI0ut34="
     },
     {
       "id": 9,
@@ -120,7 +120,7 @@
         "lemon juice",
         "herbs"
       ],
-      "image": "https://example.com/images/quinoa-veggie-bowl.jpg"
+      "image": "https://media.istockphoto.com/id/641809690/photo/healthy-kale-and-quinoa-salad.jpg?s=1024x1024&w=is&k=20&c=4TMeHorrCP02xpGF6fsci8_efOLbZgBESCDTohugQ_0="
     },
     {
       "id": 10,
@@ -134,7 +134,7 @@
         "wrap",
         "mixed greens"
       ],
-      "image": "https://example.com/images/tuna-salad-wrap.jpg"
+      "image": "https://media.istockphoto.com/id/1405660962/photo/assorted-japanese-wraps-spicy-tamago-california-wrap-poke-salmon-skin-spicy-tuna-roll-topping.jpg?s=1024x1024&w=is&k=20&c=jy8fUZSeg-sePC0EaQqFkFND2BJ5cow_sEEz0TbodQA="
     },
     {
       "id": 11,
@@ -148,7 +148,7 @@
         "olive oil",
         "herbs"
       ],
-      "image": "https://example.com/images/baked-salmon-asparagus.jpg"
+      "image": "https://media.istockphoto.com/id/175198872/photo/grilled-salmon-fillet.jpg?s=1024x1024&w=is&k=20&c=C74_9-xNVzUntMDGnYwHBSW9QcEjURBsJF54yLVC-Y0="
     },
     {
       "id": 12,
@@ -163,7 +163,7 @@
         "garlic",
         "sesame oil"
       ],
-      "image": "https://example.com/images/vegetarian-stir-fry.jpg"
+      "image": "https://media.istockphoto.com/id/1174240486/photo/fried-smoked-tofu-and-leek-with-steamed-brown-rice.jpg?s=1024x1024&w=is&k=20&c=57vs9g6r5m3_IiuJvxjQui1EkBiGuJ0rSctZ3vekbww="
     },
     {
       "id": 13,
@@ -179,7 +179,7 @@
         "tomato paste",
         "herbs"
       ],
-      "image": "https://example.com/images/beef-stew.jpg"
+      "image": "https://media.istockphoto.com/id/599498966/photo/beef-meat-stewed-with-potatoes.jpg?s=1024x1024&w=is&k=20&c=zozI7Or0KfBc599FdAQcJLx8Rx_cVx15C4PB1KF4xGc="
     },
     {
       "id": 14,
@@ -195,7 +195,7 @@
         "olive oil",
         "spices"
       ],
-      "image": "https://example.com/images/portobello-burger.jpg"
+      "image": "https://media.istockphoto.com/id/1153802164/photo/tian-le-small-park-hotel.jpg?s=1024x1024&w=is&k=20&c=mAtecSJZhoKSZxEHLTfVzpbNH0Z1D4CJtxw5IQsYlFw="
     },
     {
       "id": 15,
@@ -211,7 +211,7 @@
         "cilantro",
         "spices"
       ],
-      "image": "https://example.com/images/chicken-fajitas.jpg"
+      "image": "https://media.istockphoto.com/id/1350115741/photo/authentic-gourmet-birria-tacos-and-a-bowl-of-delicious-mexican-consume-soup-arranged-on-a.jpg?s=1024x1024&w=is&k=20&c=eFcWdoMKxWXAErnVkupJ1JtxcdtdC8DQyaNPxG66LFs="
     }
   ]
 }
