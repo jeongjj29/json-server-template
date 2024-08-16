@@ -2,7 +2,7 @@
   "meals": [
     {
       "id": 1,
-      "name": "Avocado toast with poached eggs",
+      "name": "Avocado Toast with Poached Eggs",
       "mealTime": "breakfast",
       "ingredients": [
         "whole grain bread",
@@ -16,14 +16,14 @@
     },
     {
       "id": 2,
-      "name": "Greek yogurt parfait with granola and berries",
+      "name": "Greek Yogurt Parfait with Granola and Berries",
       "mealTime": "breakfast",
       "ingredients": ["Greek yogurt", "granola", "mixed berries", "honey"],
       "image": "https://media.istockphoto.com/id/1397869054/photo/yogurt-bowl-with-granola-and-blueberries.jpg?s=1024x1024&w=is&k=20&c=DZ7GeUYTR7oT9Tor6NQax4NqVgnxl_7pl_MXKv849m4="
     },
     {
       "id": 3,
-      "name": "Spinach and mushroom frittata",
+      "name": "Spinach and Mushroom Frittata",
       "mealTime": "breakfast",
       "ingredients": [
         "eggs",
@@ -39,7 +39,7 @@
     },
     {
       "id": 4,
-      "name": "Whole grain pancakes with banana and walnuts",
+      "name": "Whole Grain Pancakes with Banana and Walnuts",
       "mealTime": "breakfast",
       "ingredients": [
         "whole grain flour",
@@ -54,7 +54,7 @@
     },
     {
       "id": 5,
-      "name": "Breakfast burrito with scrambled eggs, black beans, and salsa",
+      "name": "Breakfast Burrito with Scrambled Eggs, Black Beans, and Salsa",
       "mealTime": "breakfast",
       "ingredients": [
         "tortilla",
@@ -68,7 +68,7 @@
     },
     {
       "id": 6,
-      "name": "Grilled chicken Caesar salad",
+      "name": "Grilled Chicken Caesar Salad",
       "mealTime": "lunch",
       "ingredients": [
         "chicken breast",
@@ -81,7 +81,7 @@
     },
     {
       "id": 7,
-      "name": "Caprese sandwich on ciabatta bread",
+      "name": "Caprese Sandwich on Ciabatta Bread",
       "mealTime": "lunch",
       "ingredients": [
         "ciabatta bread",
@@ -95,7 +95,7 @@
     },
     {
       "id": 8,
-      "name": "Lentil and vegetable soup with crusty bread",
+      "name": "Lentil and Vegetable Soup with Crusty Bread",
       "mealTime": "lunch",
       "ingredients": [
         "lentils",
@@ -110,7 +110,7 @@
     },
     {
       "id": 9,
-      "name": "Quinoa bowl with roasted vegetables and feta cheese",
+      "name": "Quinoa Bowl with Roasted Vegetables and Feta Cheese",
       "mealTime": "lunch",
       "ingredients": [
         "quinoa",
@@ -124,7 +124,7 @@
     },
     {
       "id": 10,
-      "name": "Tuna salad wrap with mixed greens",
+      "name": "Tuna Salad Wrap with Mixed Greens",
       "mealTime": "lunch",
       "ingredients": [
         "tuna",
@@ -138,7 +138,7 @@
     },
     {
       "id": 11,
-      "name": "Baked salmon with asparagus and wild rice",
+      "name": "Baked Salmon with Asparagus and Wild Rice",
       "mealTime": "dinner",
       "ingredients": [
         "salmon fillet",
@@ -152,7 +152,7 @@
     },
     {
       "id": 12,
-      "name": "Vegetarian stir-fry with tofu and brown rice",
+      "name": "Vegetarian Stir-Fry with Tofu and Brown Rice",
       "mealTime": "dinner",
       "ingredients": [
         "tofu",
@@ -167,7 +167,7 @@
     },
     {
       "id": 13,
-      "name": "Slow-cooker beef stew with root vegetables",
+      "name": "Slow-Cooker Beef Stew with Root Vegetables",
       "mealTime": "dinner",
       "ingredients": [
         "beef chunks",
@@ -183,7 +183,7 @@
     },
     {
       "id": 14,
-      "name": "Grilled portobello mushroom burger with sweet potato fries",
+      "name": "Grilled Portobello Mushroom Burger with Wweet Potato Fries",
       "mealTime": "dinner",
       "ingredients": [
         "portobello mushrooms",
@@ -199,7 +199,7 @@
     },
     {
       "id": 15,
-      "name": "Chicken fajitas with bell peppers, onions, and guacamole",
+      "name": "Chicken Fajitas with Bell Peppers, Onions, and Guacamole",
       "mealTime": "dinner",
       "ingredients": [
         "chicken breast",
