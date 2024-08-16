@@ -213,5 +213,42 @@
       ],
       "image": "https://media.istockphoto.com/id/1350115741/photo/authentic-gourmet-birria-tacos-and-a-bowl-of-delicious-mexican-consume-soup-arranged-on-a.jpg?s=1024x1024&w=is&k=20&c=eFcWdoMKxWXAErnVkupJ1JtxcdtdC8DQyaNPxG66LFs="
     }
-  ]
+  ],
+  "mealPlan": {
+    "sunday": {
+      "breakfast": {},
+      "lunch": {},
+      "dinner": {}
+    },
+    "monday": {
+      "breakfast": {},
+      "lunch": {},
+      "dinner": {}
+    },
+    "tuesday": {
+      "breakfast": {},
+      "lunch": {},
+      "dinner": {}
+    },
+    "wednesday": {
+      "breakfast": {},
+      "lunch": {},
+      "dinner": {}
+    },
+    "thursday": {
+      "breakfast": {},
+      "lunch": {},
+      "dinner": {}
+    },
+    "friday": {
+      "breakfast": {},
+      "lunch": {},
+      "dinner": {}
+    },
+    "saturday": {
+      "breakfast": {},
+      "lunch": {},
+      "dinner": {}
+    }
+  }
 }
