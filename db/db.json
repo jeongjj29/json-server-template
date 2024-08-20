@@ -12,14 +12,18 @@
         "pepper",
         "olive oil"
       ],
-      "image": "https://media.istockphoto.com/id/1306846600/photo/sandwiches-with-avocado-poached-egg-sprouts-and-cheese-for-healthy-breakfast-on-white.jpg?s=1024x1024&w=is&k=20&c=se3am6723Rv1Wp_oRBs24MtfT_6mUh6AMkEFqbbQyQo="
+      "image": "https://media.istockphoto.com/id/1306846600/photo/sandwiches-with-avocado-poached-egg-sprouts-and-cheese-for-healthy-breakfast-on-white.jpg?s=1024x1024&w=is&k=20&c=se3am6723Rv1Wp_oRBs24MtfT_6mUh6AMkEFqbbQyQo=",
+      "recipe": "Toast the bread. Mash the avocado with salt and pepper, and spread on toast. Poach the eggs and place on top of the avocado. Add optional toppings.",
+      "calories": 300
     },
     {
       "id": 2,
       "name": "Greek Yogurt Parfait with Granola and Berries",
       "mealTime": "breakfast",
       "ingredients": ["Greek yogurt", "granola", "mixed berries", "honey"],
-      "image": "https://media.istockphoto.com/id/1397869054/photo/yogurt-bowl-with-granola-and-blueberries.jpg?s=1024x1024&w=is&k=20&c=DZ7GeUYTR7oT9Tor6NQax4NqVgnxl_7pl_MXKv849m4="
+      "image": "https://media.istockphoto.com/id/1397869054/photo/yogurt-bowl-with-granola-and-blueberries.jpg?s=1024x1024&w=is&k=20&c=DZ7GeUYTR7oT9Tor6NQax4NqVgnxl_7pl_MXKv849m4=",
+      "recipe": "Layer yogurt, granola, and berries in a glass. Drizzle with honey.",
+      "calories": 350
     },
     {
       "id": 3,
@@ -35,7 +39,9 @@
         "salt",
         "pepper"
       ],
-      "image": "https://media.istockphoto.com/id/1087403460/photo/porcini-mushrooms-potatoes-spinach-baked-frittata-delicious-breakfast-snack-tapas-on-a-light.jpg?s=1024x1024&w=is&k=20&c=mePHPpOc0i5ZuGafqTEabjtAhd3S380U46U9Dap5HZ0="
+      "image": "https://media.istockphoto.com/id/1087403460/photo/porcini-mushrooms-potatoes-spinach-baked-frittata-delicious-breakfast-snack-tapas-on-a-light.jpg?s=1024x1024&w=is&k=20&c=mePHPpOc0i5ZuGafqTEabjtAhd3S380U46U9Dap5HZ0=",
+      "recipe": "Sauté onions, garlic, mushrooms, and spinach in olive oil. Whisk eggs, pour over veggies, and cook until set. Optionally, top with cheese and broil until golden.",
+      "calories": 350
     },
     {
       "id": 4,
@@ -50,7 +56,9 @@
         "walnuts",
         "maple syrup"
       ],
-      "image": "https://media.istockphoto.com/id/1064139832/photo/pancakes-with-banana-nuts-and-honey-served-with-tea-rustic-style.jpg?s=1024x1024&w=is&k=20&c=4vNQ2tyYGFwDyQakBxay8Ddda5BYoK1YiU8UulGDsVk="
+      "image": "https://media.istockphoto.com/id/1064139832/photo/pancakes-with-banana-nuts-and-honey-served-with-tea-rustic-style.jpg?s=1024x1024&w=is&k=20&c=4vNQ2tyYGFwDyQakBxay8Ddda5BYoK1YiU8UulGDsVk=",
+      "recipe": "Prepare pancakes according to package instructions. Top with sliced bananas, chopped walnuts, and a drizzle of maple syrup.",
+      "calories": 400
     },
     {
       "id": 5,
@@ -64,7 +72,9 @@
         "cheese",
         "avocado"
       ],
-      "image": "https://media.istockphoto.com/id/693433468/photo/rice-black-bean-avocado-tomato-burritos.jpg?s=1024x1024&w=is&k=20&c=-B9Lxbhhrs_Dccvrd_wK3Dxs2rp9OsNIR5YE4wBzhQk="
+      "image": "https://media.istockphoto.com/id/693433468/photo/rice-black-bean-avocado-tomato-burritos.jpg?s=1024x1024&w=is&k=20&c=-B9Lxbhhrs_Dccvrd_wK3Dxs2rp9OsNIR5YE4wBzhQk=",
+      "recipe": "Scramble the eggs. Warm the tortilla, fill with eggs, beans, salsa, and optional toppings. Roll into a burrito.",
+      "calories": 450
     },
     {
       "id": 6,
@@ -77,7 +87,9 @@
         "parmesan cheese",
         "Caesar dressing"
       ],
-      "image": "https://media.istockphoto.com/id/693802832/photo/chicken-caesar-salad-on-rustic-background-with-copyspace.jpg?s=1024x1024&w=is&k=20&c=QB57qTThg_6i8sSlx9ABBoxjaBqKdVia2abAcXPVbzY="
+      "image": "https://media.istockphoto.com/id/693802832/photo/chicken-caesar-salad-on-rustic-background-with-copyspace.jpg?s=1024x1024&w=is&k=20&c=QB57qTThg_6i8sSlx9ABBoxjaBqKdVia2abAcXPVbzY=",
+      "recipe": "Toss chopped romaine with Caesar dressing. Top with grilled chicken, croutons, and Parmesan.",
+      "calories": 500
     },
     {
       "id": 7,
@@ -91,7 +103,9 @@
         "balsamic glaze",
         "olive oil"
       ],
-      "image": "https://media.istockphoto.com/id/1154590491/photo/close-up-photo-of-sandwich-burger-with-caprese-salad-with-ripe-tomatoes-basil-buffalo.jpg?s=1024x1024&w=is&k=20&c=k3pyrMX1X23tRLUHH-E48rCgdsFxMXHWW0Hd6UJpbZg="
+      "image": "https://media.istockphoto.com/id/1154590491/photo/close-up-photo-of-sandwich-burger-with-caprese-salad-with-ripe-tomatoes-basil-buffalo.jpg?s=1024x1024&w=is&k=20&c=k3pyrMX1X23tRLUHH-E48rCgdsFxMXHWW0Hd6UJpbZg=",
+      "recipe": "Slice bread and layer with mozzarella, tomato, and basil. Drizzle with balsamic glaze and olive oil.",
+      "calories": 450
     },
     {
       "id": 8,
@@ -106,7 +120,9 @@
         "vegetable broth",
         "crusty bread"
       ],
-      "image": "https://media.istockphoto.com/id/856009070/photo/lentil-soup.jpg?s=1024x1024&w=is&k=20&c=LwErEA7xoX--mNKm38068kx7JguFBZ3FHtNpWI0ut34="
+      "image": "https://media.istockphoto.com/id/856009070/photo/lentil-soup.jpg?s=1024x1024&w=is&k=20&c=LwErEA7xoX--mNKm38068kx7JguFBZ3FHtNpWI0ut34=",
+      "recipe": "Sauté vegetables, add lentils and broth, and simmer until lentils are tender. Stir in spinach and season to taste. Serve with crusty bread.",
+      "calories": 350
     },
     {
       "id": 9,
@@ -120,7 +136,9 @@
         "lemon juice",
         "herbs"
       ],
-      "image": "https://media.istockphoto.com/id/641809690/photo/healthy-kale-and-quinoa-salad.jpg?s=1024x1024&w=is&k=20&c=4TMeHorrCP02xpGF6fsci8_efOLbZgBESCDTohugQ_0="
+      "image": "https://media.istockphoto.com/id/641809690/photo/healthy-kale-and-quinoa-salad.jpg?s=1024x1024&w=is&k=20&c=4TMeHorrCP02xpGF6fsci8_efOLbZgBESCDTohugQ_0=",
+      "recipe": "Cook quinoa. Roast vegetables in olive oil and combine with quinoa. Top with crumbled feta and a squeeze of lemon juice.",
+      "calories": 450
     },
     {
       "id": 10,
@@ -134,7 +152,9 @@
         "wrap",
         "mixed greens"
       ],
-      "image": "https://media.istockphoto.com/id/1405660962/photo/assorted-japanese-wraps-spicy-tamago-california-wrap-poke-salmon-skin-spicy-tuna-roll-topping.jpg?s=1024x1024&w=is&k=20&c=jy8fUZSeg-sePC0EaQqFkFND2BJ5cow_sEEz0TbodQA="
+      "image": "https://media.istockphoto.com/id/1405660962/photo/assorted-japanese-wraps-spicy-tamago-california-wrap-poke-salmon-skin-spicy-tuna-roll-topping.jpg?s=1024x1024&w=is&k=20&c=jy8fUZSeg-sePC0EaQqFkFND2BJ5cow_sEEz0TbodQA=",
+      "recipe": "Mix tuna with mayo and chopped veggies. Spread on a tortilla, add greens, and wrap.",
+      "calories": 400
     },
     {
       "id": 11,
@@ -148,7 +168,9 @@
         "olive oil",
         "herbs"
       ],
-      "image": "https://media.istockphoto.com/id/175198872/photo/grilled-salmon-fillet.jpg?s=1024x1024&w=is&k=20&c=C74_9-xNVzUntMDGnYwHBSW9QcEjURBsJF54yLVC-Y0="
+      "image": "https://media.istockphoto.com/id/175198872/photo/grilled-salmon-fillet.jpg?s=1024x1024&w=is&k=20&c=C74_9-xNVzUntMDGnYwHBSW9QcEjURBsJF54yLVC-Y0=",
+      "recipe": "Bake salmon with asparagus drizzled in olive oil, salt, and pepper. Serve with cooked wild rice and a squeeze of lemon.",
+      "calories": 500
     },
     {
       "id": 12,
@@ -163,7 +185,9 @@
         "garlic",
         "sesame oil"
       ],
-      "image": "https://media.istockphoto.com/id/1174240486/photo/fried-smoked-tofu-and-leek-with-steamed-brown-rice.jpg?s=1024x1024&w=is&k=20&c=57vs9g6r5m3_IiuJvxjQui1EkBiGuJ0rSctZ3vekbww="
+      "image": "https://media.istockphoto.com/id/1174240486/photo/fried-smoked-tofu-and-leek-with-steamed-brown-rice.jpg?s=1024x1024&w=is&k=20&c=57vs9g6r5m3_IiuJvxjQui1EkBiGuJ0rSctZ3vekbww=",
+      "recipe": "Stir-fry tofu and vegetables in a wok with soy sauce, garlic, and ginger. Serve over brown rice.",
+      "calories": 450
     },
     {
       "id": 13,
@@ -179,7 +203,9 @@
         "tomato paste",
         "herbs"
       ],
-      "image": "https://media.istockphoto.com/id/599498966/photo/beef-meat-stewed-with-potatoes.jpg?s=1024x1024&w=is&k=20&c=zozI7Or0KfBc599FdAQcJLx8Rx_cVx15C4PB1KF4xGc="
+      "image": "https://media.istockphoto.com/id/599498966/photo/beef-meat-stewed-with-potatoes.jpg?s=1024x1024&w=is&k=20&c=zozI7Or0KfBc599FdAQcJLx8Rx_cVx15C4PB1KF4xGc=",
+      "recipe": "Combine all ingredients in a slow cooker and cook on low for 6-8 hours, until meat is tender.",
+      "calories": 450
     },
     {
       "id": 14,
@@ -195,7 +221,9 @@
         "olive oil",
         "spices"
       ],
-      "image": "https://media.istockphoto.com/id/1153802164/photo/tian-le-small-park-hotel.jpg?s=1024x1024&w=is&k=20&c=mAtecSJZhoKSZxEHLTfVzpbNH0Z1D4CJtxw5IQsYlFw="
+      "image": "https://media.istockphoto.com/id/1153802164/photo/tian-le-small-park-hotel.jpg?s=1024x1024&w=is&k=20&c=mAtecSJZhoKSZxEHLTfVzpbNH0Z1D4CJtxw5IQsYlFw=",
+      "recipe": "Grill mushrooms and serve on buns with toppings. Slice sweet potatoes, toss with olive oil, and bake until crispy.",
+      "calories": 500
     },
     {
       "id": 15,
@@ -211,7 +239,9 @@
         "cilantro",
         "spices"
       ],
-      "image": "https://media.istockphoto.com/id/1350115741/photo/authentic-gourmet-birria-tacos-and-a-bowl-of-delicious-mexican-consume-soup-arranged-on-a.jpg?s=1024x1024&w=is&k=20&c=eFcWdoMKxWXAErnVkupJ1JtxcdtdC8DQyaNPxG66LFs="
+      "image": "https://media.istockphoto.com/id/1350115741/photo/authentic-gourmet-birria-tacos-and-a-bowl-of-delicious-mexican-consume-soup-arranged-on-a.jpg?s=1024x1024&w=is&k=20&c=eFcWdoMKxWXAErnVkupJ1JtxcdtdC8DQyaNPxG66LFs=",
+      "recipe": "Sauté chicken and vegetables with fajita seasoning. Serve on tortillas with guacamole.",
+      "calories": 450
     }
   ],
   "mealPlan": [
